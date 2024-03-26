@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Willingness to Pay for One Additional Quality Adjusted Life Year: A Population Based Survey from China"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'The aim of this study was to estimate the population’s willingness to pay (WTP) for an additional quality-adjusted life-year (QALY) in China. The average WTP/Q for the entire sample is 113,120 Renminbi (RMB) (USD 16,884), which is 1.75 times the gross domestic product (GDP) per capita. For the quality-of-life improvement scenarios, the mean WTP/Q is RMB 78,907 (USD 11,777, 1.22 times GDP per capita), which is significantly lower than the life extension scenarios (RMB 177,761, USD 26,531, 2.76 times GDP per capita). '
+date: 2022-08-08
+venue: 'Applied health economics and health policy'
+paperurl: '(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-8ljF1IAAAAJ&sortby=pubdate&citation_for_view=-8ljF1IAAAAJ:Tyk-4Ss8FVUC)'
+citation: 'Ye, Ziping, Raela Abduhilil, Jiaxin Huang, and Lihua Sun. "Willingness to pay for one additional quality adjusted life year: A population based survey from China." Applied health economics and health policy 20, no. 6 (2022): 893-904.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
