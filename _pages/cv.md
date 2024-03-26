@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Pharmacy Administration, Shenyang Pharmaceutical University, 2021
+   *Dissertation: Cost-utility threshold for China from the Demand-side Perspective (Chair: Lihua Sun, Ph.D.)
+* M.S. in Pharmacy Administration, Shenyang Pharmaceutical University, 2018
+   *Thesis: A head-to-head comparison of EQ-5D-5L and SF-6D in Chinese patients with low back pain (Chair: Lihua Sun, Ph.D.)
+* B.S. in Pharmaceutical Engineering, Guangzhou University of Chinese Medicine, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jul 2021- Aug 2023: Lecturer (Assistant Professor)
+  * School of Public Administration, Hainan University, Haikou, China
+  * Duties includes: My professional responsibilities encompass three main areas: teaching, mentoring, and research. Regarding teaching, I have taught a number of courses, such as Introduction to Health Economics, Methods and Principles of Social Survey, and Principles of Economics. As a mentor, I supervised 8 undergraduate students and 5 graduate students. Additionally, I was the principal investigator of the research project titled "Marginal Effect Modelling of Basic Medical Insurance Fund in Hainan."
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2018- Dec 2020: Research Assistant
+  * Department of Health Economics and Health Policy, Shanghai Health Development Research Center, Shanghai, China
+  * Duties included: I have actively participated in over five research projects, covering a range of areas including health technology assessment, quality of life for patients with rare diseases, multicriteria decision analysis, the UK health system, and economic evaluation guidelines.
+ 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Systematic Review
+* Data Analytics
+  * Proficient in R, STATA, SPSS, REVMAN, Comprehensive Meta-Analysis Software
+  * Time-series data analysis
+  * Health survey data analysis
+  * Population-based large scale data analysis
+  * Generalised linear model, Survival analysis
+* Questionnaire design & Research Design 
 
 Publications
 ======
